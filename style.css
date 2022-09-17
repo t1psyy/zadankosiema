@@ -1,0 +1,48 @@
+div.parent {
+width: 50%;
+}
+
+body {
+  margin: 0px;
+}
+
+div.wszystko {
+  width: 100vw;
+  height: 100vh;
+  background-color: #DBE8F3;
+}
+
+.inline-block {
+  display: inline-block;
+  background-color: #6099CF;
+ height: 100%;
+ width: 32.3%;
+ margin-left: 1%;
+}
+
+.row_blueone, .row_yellow, .row_green, .row_bluetwo {
+  margin-bottom: 1vh;
+  height: 23.8vh;
+}
+
+.prostokat {
+  height: 100%;
+  margin-left: 1%;
+  margin-bottom: 1%;
+}
+
+.row_green>.prostokat {
+  background-color: #2DAB4B;
+}
+
+.row_yellow>.prostokat {
+  background-color: #FBFC00;
+}
+
+.row_blueone {
+  padding-top: 1%;
+}
+
+.row_bluetwo {
+  margin-bottom: 1%;
+}
