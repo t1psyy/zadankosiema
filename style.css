@@ -23,6 +23,7 @@ div.wszystko {
 .row_blueone, .row_yellow, .row_green, .row_bluetwo {
   margin-bottom: 1vh;
   height: 23.8vh;
+  font-size: 0;
 }
 
 .prostokat {
